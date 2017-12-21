@@ -5,8 +5,7 @@ Emerson Wenzel
 # Purpose
 This tool was developed to help conduct Engineering Psychology Research at the Volpe National Transporation Systems Center. Part of the work at the center involves running participants through a driving simulator to understand how humans may react in specific driving events. To measure reactions, Eyetrackers are used. Unfortunately, the events researchers want to observe only make up ~1/4 of the total eyetracker footage. 
 
-To improve the workflow process, the tool can be used in conjunction when overseeing participants to allow the active editing of footage so that when scoring the videos and conducting analysis, researchers only have to view the important parts of the footage.
-
+To improve the workflow process, the tool can be used in conjunction when overseeing participants to allow the active editing of footage. This makes scoring videos and conducting analysis easier, as researchers do not have to drudge through unecessary footage.
 
 
 # Execution
@@ -31,3 +30,5 @@ Note: For the desired results, ensure that you are not trying to
 	select time frames that do not exist in the video
 	(e.g. 2:30 to 2:45 in a 2 minute video)
 
+# TODOs
+- Allow the option to add captions to different segments of footage 
