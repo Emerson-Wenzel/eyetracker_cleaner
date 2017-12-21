@@ -2,17 +2,17 @@
 Emerson Wenzel
 12/21/2017
 
-#Purpose
+# Purpose
 This tool was developed to help conduct Engineering Psychology Research at the Volpe National Transporation Systems Center. Part of the work at the center involves running participants through a driving simulator to understand how humans may react in specific driving events. To measure reactions, Eyetrackers are used. Unfortunately, the events researchers want to observe only make up ~1/4 of the total eyetracker footage. 
 
 To improve the workflow process, the tool can be used in conjunction when overseeing participants to allow the active editing of footage so that when scoring the videos and conducting analysis, researchers only have to view the important parts of the footage.
 
 
 
-#execution
+# Execution
 This program takes no command line arguments
 
-#Workflow
+# Workflow
 the workflow for using this program with an eyetracker is as follows:
 
 	- Fit eyetracker onto participant.
